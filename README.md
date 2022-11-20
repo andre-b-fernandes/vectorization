@@ -16,3 +16,5 @@ https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics
 https://electronicsdesk.com/vector-processor.html
 
 https://www.doc.ic.ac.uk/~eedwards/compsys/memory/index.html
+
+https://www.cs.uic.edu/~ajayk/c566/VectorProcessors.pdf
